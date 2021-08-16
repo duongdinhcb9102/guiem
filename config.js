@@ -12,7 +12,7 @@ const CONFIG = {
     question:'wow vậy là em đồng ý rồi à, hãy nói lý do sao em chọn đju<3',
     btnReply: 'Nói cho anh đi baby <3',
     reply: 'Yêu thì yêu mà không yêu thì vẫn phải yêu <3',
-    mess: 'Wow anh biết ngay mà 🥰. Yêu em nhiều nắm 😘😘',
+    mess: 'Wow anh biết ngay mà 🥰. Yêu em nhiều lắm😘',
     messDesc: 'Tối nay 8h anh qua đón nhé công chúa.',
     btnAccept: 'Oki lun <3',
     messLink: 'http://fb.com/duongdinhnehi11', 
