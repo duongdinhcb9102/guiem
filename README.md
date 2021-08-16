@@ -22,7 +22,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì phải yêu yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Tối nay 8h anh qua đón nhé công túa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: ''http://fb.com/duongdinhnehi11', 
 }
