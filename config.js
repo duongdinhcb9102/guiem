@@ -2,10 +2,10 @@ const CONFIG = {
     introTitle: 'Thủy à!',
     introDesc: `Trái đất vốn rất dã lạ thường
     vay mà thủy cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là chữ thương`,
-    btnIntro: 'úihihi🤭',
-    title: 'Phải chăng tớ đã u mê thuỷ từ cái nụ cười của thủy ',
+    Lạc vào tim tớ thế này làm tớ u mê biết bao,
+Thủy có biết không `,
+    btnIntro: 'úi vậy à??🤭',
+    title: 'Phải chăng tớ đã u mê thuỷ từ cái nụ cười của thủy :3 ',
     desc: 'Say luôn cả áng mắt ngây thơ của Thuỷ và tâm hồn đẹp đẽ của thủy',
     btnYes: 'Vậy thủy đồng ý làm mảnh đời của tớ nhóa <33',
     btnNo: 'Không, ạ:3',
