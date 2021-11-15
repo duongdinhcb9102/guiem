@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'Thủy à!',
     introDesc: `Trái đất vốn rất dã lạ thường
     vay mà thủy cứ đi nhầm đường
-    Lạc vào tim tớ thế này làm tớ u mê biết bao,
-Thủy có biết không `,
+    Lạc vào tim tớ thế này làm tớ u mê biết bao
+    Thủy có biết không `,
     btnIntro: 'úi vậy à??🤭',
     title: 'Phải chăng tớ đã u mê thuỷ từ cái nụ cười của thủy :3 ',
     desc: 'Say luôn cả áng mắt ngây thơ của Thuỷ và tâm hồn đẹp đẽ của thủy',
