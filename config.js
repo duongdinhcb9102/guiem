@@ -5,8 +5,8 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là chữ thương`,
     btnIntro: 'úihihi🤭',
-    title: 'Phải chăng tớđã cảm nắng từ lần đầu thấy thủy cười',
-    desc: 'Phải chăng tớ đã cảm nắng từ lần đầu thấy thủy cười ',
+    title: 'Phải chăng tớ đã u mê thuỷ từ cái nụ cười của thủy ',
+    desc: 'Say luôn cả áng mắt ngây thơ của Thuỷ và tâm hồn đẹp đẽ của thủy',
     btnYes: 'Vậy thủy đồng ý làm mảnh đời của tớ nhóa <33',
     btnNo: 'Không, ạ:3',
     question:'wow vậy là thủy đồng ý rồi đó , hãy nói lý do sao thủy chọn đju<3',
